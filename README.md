@@ -1,4 +1,4 @@
-# ActiveRecord::Bracket
+# ActiveRecord::Bracket [![Build Status](https://travis-ci.org/zonuexe/ruby-activerecord-bracket.png?branch=develop)](https://travis-ci.org/zonuexe/ruby-activerecord-bracket) [![Code Climate](https://codeclimate.com/github/zonuexe/ruby-activerecord-bracket.png)](https://codeclimate.com/github/zonuexe/ruby-activerecord-bracket) [![Dependency Status](https://gemnasium.com/zonuexe/ruby-activerecord-bracket.png)](https://gemnasium.com/zonuexe/ruby-activerecord-bracket)
 
 Provide bracket-method `[]` for ActiveRecord Class
 

@@ -1,0 +1,4 @@
+Copyright (c) 2013 USAMI Kenta
+
+GPLv3 or NYSLれ。
+

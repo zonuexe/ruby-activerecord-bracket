@@ -1,6 +1,6 @@
 # ActiveRecord::Bracket
 
-TODO: Write a gem description
+Provide bracket-method `[]` for ActiveRecord Class
 
 ## Installation
 

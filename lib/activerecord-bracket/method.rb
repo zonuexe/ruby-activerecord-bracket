@@ -1,4 +1,4 @@
-# Implement of [] method
+# Implement [] method
 module ActiveRecord::Bracket::Method
   extend ::ActiveSupport::Concern
 

@@ -35,7 +35,7 @@ Or install it yourself as:
 
 *(Japanese)*
 
- * ActiveRecordを継承したモデルに `slug` 列を用意します (**カラム名の制限は撤廃予定です**)
+ * ActiveRecordを継承したモデルに `slug` 列を用意します ( **カラム名の制限は撤廃予定です** )
    * この列は **uniqueness** であることが望ましいです (必須ではありませんが、 `find_by_slug` の構文糖でしかないことに留意しないと想定外の挙動をするおそれがある)
 
 ## Usage
